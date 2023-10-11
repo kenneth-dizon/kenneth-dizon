@@ -1,7 +1,8 @@
-### Hi there 👋
+### Welcome. I'm Kenneth. I specialize in data analysis, data visualization, operations, and project management. 
 
-Skills: SQL, Tableau, PowerBI, Excel
+Specialties: SQL, Tableau, PowerBI, Excel, Google Sheets, R
 
+Check out my projects!
 <!--
 **kenneth-dizon/kenneth-dizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
