@@ -4,7 +4,7 @@ I'm Kenneth. I have expertise in data analysis, data visualization, operations, 
 
 Specialties: SQL, Tableau, PowerBI, Excel, Google Sheets, R
 
-Check out my projects!
+Check out my projects by clicking the pinned repositories!
 <!--
 **kenneth-dizon/kenneth-dizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
