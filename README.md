@@ -1,4 +1,6 @@
-### Welcome. I'm Kenneth. I specialize in data analysis, data visualization, operations, and project management. 
+### Welcome! 
+
+I'm Kenneth. I have expertise in data analysis, data visualization, operations, and project management. 
 
 Specialties: SQL, Tableau, PowerBI, Excel, Google Sheets, R
 
